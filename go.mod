@@ -1,4 +1,4 @@
-module github.com/The-DarkWarrior/go-docker-tutorial
+module github.com/The-DarkWarrior/golang-docker-tutorial
 
 go 1.16
 
